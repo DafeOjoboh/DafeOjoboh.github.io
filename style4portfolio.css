@@ -70,7 +70,7 @@ p{
     color: crimson;
 }
 #hero{
-    background-image: url(../img/dafe1.png);
+    background-image: url(dafe1.png);
     background-size: cover;
     background-position: top center;
     position: relative;
